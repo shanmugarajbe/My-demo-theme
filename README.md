@@ -1,8 +1,18 @@
 # Getting Your Mozu Theme Development Environment Up and Running
 
-#Better docs on build.js
+##Helpful Links
+
+###Better docs on build.js
 https://www.youtube.com/watch?v=m6VNhqKDM4E
 
+###Generator Mozu Theme Link
+https://www.npmjs.com/package/generator-mozu-theme
+### Mozu Core Theme
+https://github.com/Mozu/core-theme
+
+### Storefront SDK
+https://github.com/Mozu/mozu-storefront-sdk
+Debug File link: https://github.com/Mozu/mozu-storefront-sdk/blob/master/dist/mozu-storefront-sdk.debug.js
 
 Before we get started, you should have the following software(s) setup:
 
